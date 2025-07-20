@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>474933792377-q3thbgf467jcdifiapgvmt2cutj16dl6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.474933792377-q3thbgf467jcdifiapgvmt2cutj16dl6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAh43cAHHEES0lrLzIKLDFBm3_NFQFCJik</string>
+	<key>GCM_SENDER_ID</key>
+	<string>474933792377</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.babytracker</string>
+	<key>PROJECT_ID</key>
+	<string>kit305-607-4543b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kit305-607-4543b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:474933792377:ios:038bccdf47669cdd154ea8</string>
+</dict>
+</plist>
